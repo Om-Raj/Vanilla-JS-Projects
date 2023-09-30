@@ -1,0 +1,23 @@
+button {
+    width: 3rem;
+    height: 3rem;
+}
+
+#screen {
+    width: 9rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem 0 0.5rem 0;
+    text-align: center;
+    border: thick double #32a1ce;
+}
+
+.gridbtn {
+    padding: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+#reset {
+    height: 2rem;
+    margin-top: 1rem;
+}
